@@ -1,0 +1,123 @@
+/* TITLE */
+
+#title{
+  background-color: #495C83;
+}
+
+.desc{
+  font-family: 'Ubuntu', serif;
+  font-size: 30px;
+  color: gold;
+}
+
+.container-fluid{
+  padding: 3% 15% 5%;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: 'Montserrat';
+  font-size: 1.1rem;
+
+}
+
+.title-image{
+  padding-left: 15%;
+  width: 70%;
+}
+
+/* Checks */
+
+#checks{
+  padding: 5% 7%;
+  text-align: center;
+}
+
+.icon{
+  margin-bottom: 15px;
+  transition: color .3s
+}
+
+.icon:hover{
+  color: red;
+}
+
+/* Testimonials */
+
+#testimonial{
+  background-color: #ef8172;
+  text-align: center;
+  color: white;
+}
+
+#carouselExampleControls{
+  padding: 7% 15%;
+}
+
+.testimonial-image{
+  width: 20%;
+  border-radius: 100%;
+}
+
+
+
+
+
+
+/* footer */
+
+#footer{
+  padding: 4% 5%;
+  text-align: center;
+}
+
+.footer-icons{
+  margin: 15px 30px;
+}
+
+.twitter:hover{
+  color: #1DA1F2;
+}
+
+.insta:hover{
+  color: #E4405F;
+}
+
+.gmail:hover{
+  color: red;
+}
+
+.fb:hover{
+  color: #4267B2;
+}
+
+.icx{
+  transition: color .3s;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.link:visited{
+  text-decoration:none;
+  color: black;
+
+}
+
+.cta-text{
+  font-family: 'Silkscreen', cursive;
+}
